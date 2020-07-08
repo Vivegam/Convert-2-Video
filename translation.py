@@ -6,7 +6,7 @@ You can convert any Telegram Document, using this bot! With custom thumbnail
     """
     ABS_TEXT = " Please don't be selfish."
     BANNED_USER_TEXT = "you are banned"
-    UPGRADE_TEXT = "Free Umtill Death😊"
+    UPGRADE_TEXT = "Free Untill Death😊"
     DOWNLOAD_START = "trying to download"
     UPLOAD_START = "trying to upload"
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
