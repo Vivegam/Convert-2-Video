@@ -25,7 +25,7 @@ Telegram ID: <code>{}</code>
 Plan name: <a href='https://t.me/InFoTelGroup/174'>{}</a>
 Expires on: {}"""
     HELP_USER = """I can do:
-👉 <a href="https://telegram.dog/Anydlbot">Convert To Streamable video any telegram file</a>
+👉 <a href="https://telegram.dog/Anydl_RoBot">Convert To Streamable video any telegram file</a>
 --------
 
 
